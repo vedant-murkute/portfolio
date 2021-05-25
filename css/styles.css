@@ -12,13 +12,13 @@ body {
 .top {
   background-color: #EAF6F6;
   position: relative;
-  padding-top: 60px;
+  padding-top: 100px;
 }
 
 .top-cloud {
   position: absolute;
   right: 250px;
-  top: 40px;
+  top: 50px;
 }
 
 h1 {
